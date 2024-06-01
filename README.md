@@ -13,3 +13,19 @@
 
 **Join Our Community on [iCodeGuru](https://icode.guru/join/)**
 
+# Trainers & Modenators
+
+<table>
+    <tbody>
+        <tr>
+            <td align="center">
+                <a href="https://github.com/aamna-ansari">
+                    <img src="https://avatars.githubusercontent.com/u/123650396?v=4" width="100px;" alt="AaMna AnSari"/>
+                    <br />
+                    <sub><b>AaMna AnSari</b></sub>
+                </a> 
+            </td>
+        </tr> 
+</tbody>
+<table>
+
