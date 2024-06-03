@@ -64,7 +64,7 @@
     <tbody>
      <tr>
       <th> Days</th>
-      <th>Video Links</br></th>
+      <th>Video Links (Facebook)</br></th>
       <th>Material/Questions</th>
      </tr> 
     <tr>
@@ -90,10 +90,29 @@
            <tr>
     <td align="center"><b>Day 05</b></td>
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1535628700501441">Solved Leetcode Questions</td>
-    <td align="center" ><a href="https://leetcode.com/problems/contains-duplicate/">217. Contains Duplicate</br> <a href="https://leetcode.com/problems/sign-of-the-product-of-an-array/description/">1822. Sign of the Product of an Array</td>
+    <td align="center" ><a href="https://leetcode.com/problems/contains-duplicate/">217. Contains Duplicate</br><a href="https://leetcode.com/problems/sign-of-the-product-of-an-array/">1822. Sign of the Product of an Array</br><a href="https://leetcode.com/problems/intersection-of-two-arrays/">349. Intersection of Two Arrays</br><a href="https://leetcode.com/problems/running-sum-of-1d-array/description/">1480. Running Sum of 1d Array</td>
   </tr> 
 </tbody>
 <table>
+
+
+# Week 02
+<table>
+    <tbody>
+     <tr>
+      <th> Days</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Material/Questions</th>
+     </tr> 
+           <tr>
+    <td align="center"><b>Day 01</b></td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/431252989671819">Solved Leetcode Questions</td>
+    <td align="center" ><a href="https://leetcode.com/problems/richest-customer-wealth/">1672. Richest Customer Wealth</br><a href="https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/">1431. Kids With the Greatest Number of Candies</br><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">33. Search in Rotated Sorted Array</td>
+  </tr> 
+</tbody>
+<table>
+
+
 
 
 
