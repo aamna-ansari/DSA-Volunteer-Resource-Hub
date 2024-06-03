@@ -57,3 +57,23 @@
 </tbody>
 <table>
 
+
+# Week 01
+
+<table>
+    <tbody>
+     <tr>
+      <th> Days</th>
+      <th>Video Links</br></th>
+      <th>Material/Questions</th>
+     </tr> 
+    <tr>
+    <td>Day 01</td>
+    <td><a href="https://www.facebook.com/iCodeguru/videos/396703180034024">Introduction of DSA</td>
+    <td><a href="">Slides</td>
+  </tr>
+</tbody>
+<table>
+
+
+
