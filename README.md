@@ -15,7 +15,7 @@
 
 # Trainers & Modenators
 
-<table>
+<table align="center">
     <tbody>
         <tr>
             <td align="center">
@@ -40,7 +40,7 @@
                 </a> 
             </td>
             <td align="center">
-                <a href="[https://github.com/aamna-ansari](https://github.com/khadijah-Shabir)">
+                <a href="https://github.com/khadijah-Shabir">
                     <img src="https://avatars.githubusercontent.com/u/133489629?v=4" width="100px;" alt="khadijah-Shabir"/>
                     <br />
                     <sub><b>khadijah-Shabir</b></sub>
