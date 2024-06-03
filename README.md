@@ -71,16 +71,17 @@
        <td align="center"><b>Day 01</b></td>
        <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/396703180034024">Introduction of DSA</td>
     <td align="center" ><a href="https://docs.google.com/presentation/d/1txuV1nfX6loDIdpSDsM8Rw51b2s1ToN9F90W83tHpi0/edit?usp=sharing">Slides</td>
-  </tr>
+    </tr>
       <tr>
     <td align="center"><b>Day 02</b></td>
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/995867158561148/">Array Data Structure</td>
-    <td align="center" ><a href="https://docs.google.com/presentation/d/1txuV1nfX6loDIdpSDsM8Rw51b2s1ToN9F90W83tHpi0/edit?usp=sharing">Slides</td>
+    <td align="center" ><a href="https://docs.google.com/presentation/d/1txuV1nfX6loDIdpSDsM8Rw51b2s1ToN9F90W83tHpi0/edit?usp=sharing">Slides</td  
   </tr>   
         <tr>
     <td align="center"><b>Day 03</b></td>
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/995867158561148/">Array Data Structure</td>
     <td align="center" ><a href="https://docs.google.com/presentation/d/1txuV1nfX6loDIdpSDsM8Rw51b2s1ToN9F90W83tHpi0/edit?usp=sharing">Slides</td>
+        
   </tr> 
         <tr>
     <td align="center"><b>Day 04</b></td>
@@ -91,6 +92,7 @@
     <td align="center"><b>Day 05</b></td>
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1535628700501441">Solved Leetcode Questions</td>
     <td align="center" ><a href="https://leetcode.com/problems/contains-duplicate/">217. Contains Duplicate</br><a href="https://leetcode.com/problems/sign-of-the-product-of-an-array/">1822. Sign of the Product of an Array</br><a href="https://leetcode.com/problems/intersection-of-two-arrays/">349. Intersection of Two Arrays</br><a href="https://leetcode.com/problems/running-sum-of-1d-array/description/">1480. Running Sum of 1d Array</td>
+       
   </tr> 
 </tbody>
 <table>
