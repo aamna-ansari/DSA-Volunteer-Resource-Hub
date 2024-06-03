@@ -33,6 +33,20 @@
                 </a> 
             </td>
             <td align="center">
+                <a href="https://github.com/Ifrahtariq2">
+                    <img src="https://avatars.githubusercontent.com/u/169586130?v=4" width="100px;" alt="Ifrah Tariq"/>
+                    <br />
+                    <sub><b>Ifrah Tariq </b></sub>
+                </a> 
+            </td>
+            <td align="center">
+                <a href="[https://github.com/aamna-ansari](https://github.com/khadijah-Shabir)">
+                    <img src="https://avatars.githubusercontent.com/u/133489629?v=4" width="100px;" alt="khadijah-Shabir"/>
+                    <br />
+                    <sub><b>khadijah-Shabir</b></sub>
+                </a> 
+            </td>
+            <td align="center">
                 <a href="https://github.com/aamna-ansari">
                     <img src="https://avatars.githubusercontent.com/u/123650396?v=4" width="100px;" alt="AaMna AnSari"/>
                     <br />
