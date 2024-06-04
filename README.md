@@ -13,7 +13,7 @@
 
 **Join Our Community on [iCodeGuru](https://icode.guru/join/)**
 
-# Trainers & Modenators
+# Trainers & Moderators
 
 <table align="center">
     <tbody>
@@ -110,6 +110,11 @@
     <td align="center"><b>Day 01</b></td>
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/431252989671819">Solved Leetcode Questions</td>
     <td align="center" ><a href="https://leetcode.com/problems/richest-customer-wealth/">1672. Richest Customer Wealth</br><a href="https://leetcode.com/problems/kids-with-the-greatest-number-of-candies/">1431. Kids With the Greatest Number of Candies</br><a href="https://leetcode.com/problems/search-in-rotated-sorted-array/">33. Search in Rotated Sorted Array</td>
+  </tr> 
+         <tr>
+    <td align="center"><b>Day 02</b></td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/861962272441588">Solved Leetcode Questions</td>
+    <td align="center" ><a href="https://leetcode.com/problems/single-number/">136. Single Number</br><a href="https://leetcode.com/problems/single-number-iii/">260. Single Number III</td>
   </tr> 
 </tbody>
 <table>
