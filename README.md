@@ -79,13 +79,13 @@
   </tr>   
         <tr>
     <td align="center"><b>Day 03</b></td>
-    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/995867158561148/">Solved Leetcode Questions</td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/841148441194489">Array Data Structure</td>
     <td align="center" ><a href="https://docs.google.com/presentation/d/1txuV1nfX6loDIdpSDsM8Rw51b2s1ToN9F90W83tHpi0/edit?usp=sharing">Slides</td>
         
   </tr> 
         <tr>
     <td align="center"><b>Day 04</b></td>
-    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/995867158561148/">Solved Leetcode Questions</td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1283705489252750">Solved Leetcode Questions</td>
     <td align="center" ><a href="https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array/">448. Find All Numbers Disappeared in an Array </br> <a href="https://leetcode.com/problems/concatenation-of-array/">1929. Concatenation of Array</td>
   </tr> 
            <tr>
