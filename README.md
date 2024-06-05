@@ -117,7 +117,7 @@
     <td align="center" ><a href="https://leetcode.com/problems/single-number/">136. Single Number</br><a href="https://leetcode.com/problems/single-number-iii/">260. Single Number III</td>
   </tr> 
         <tr>
-    <td align="center"><b>Day 02</b></td>
+    <td align="center"><b>Day 03</b></td>
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/448289547924716">Solved Leetcode Questions</td>
     <td align="center" ><a href="https://leetcode.com/problems/find-the-peaks/">2951. Find the Peaks</br><a href="https://leetcode.com/problems/find-words-containing-character/">2942. Find Words Containing Character</br><a href="https://leetcode.com/problems/check-if-a-string-is-an-acronym-of-words/description/">2828. Check if a String Is an Acronym of Words</td>
   </tr> 
