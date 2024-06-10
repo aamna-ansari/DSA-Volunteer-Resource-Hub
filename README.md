@@ -134,6 +134,21 @@
 </tbody>
 <table>
 
+# Week 03
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Material/Questions</th>
+     </tr>  
+        <tr>
+    <td align="center"><b>01</b></td>
+    <td align="center"><a href="">Solved Leetcode Questions</br>(2D Array)</td>
+    <td align="center" ><a href="https://leetcode.com/problems/search-a-2d-matrix/">74. Search a 2D Matrix</td>
+  </tr>
+</tbody>
+<table>
 
 
 
