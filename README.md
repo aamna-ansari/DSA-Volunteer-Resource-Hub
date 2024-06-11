@@ -147,6 +147,11 @@
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1508921433167106">Solved Leetcode Questions</br>(2D Array)</td>
     <td align="center" ><a href="https://leetcode.com/problems/search-a-2d-matrix/">74. Search a 2D Matrix</td>
   </tr>
+         <tr>
+    <td align="center"><b>02</b></td>
+    <td align="center"><a href="">Solved Leetcode Questions</br>(2D Array)</td>
+    <td align="center" ><a href="https://leetcode.com/problems/matrix-diagonal-sum/description/">1572. Matrix Diagonal Sum</td></br><a href="https://leetcode.com/problems/flipping-an-image/description/">832. Flipping an Image</td>
+  </tr>
 </tbody>
 <table>
 
