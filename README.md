@@ -149,7 +149,7 @@
   </tr>
          <tr>
     <td align="center"><b>02</b></td>
-    <td align="center"><a href="">Solved Leetcode Questions</br>(2D Array)</td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1831569677326643">Solved Leetcode Questions</br>(2D Array)</td>
     <td align="center" ><a href="https://leetcode.com/problems/matrix-diagonal-sum/description/">1572. Matrix Diagonal Sum</br><a href="https://leetcode.com/problems/flipping-an-image/description/">832. Flipping an Image</td>
   </tr>
 </tbody>
