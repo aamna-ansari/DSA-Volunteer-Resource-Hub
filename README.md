@@ -152,6 +152,11 @@
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1831569677326643">Solved Leetcode Questions</br>(2D Array)</td>
     <td align="center" ><a href="https://leetcode.com/problems/matrix-diagonal-sum/description/">1572. Matrix Diagonal Sum</br><a href="https://leetcode.com/problems/flipping-an-image/description/">832. Flipping an Image</td>
   </tr>
+        <tr>
+    <td align="center"><b>03</b></td>
+    <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/1749356188922957">Solved Leetcode Questions</br>(2D Array)</td>
+    <td align="center" ><a href="https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/">378. Kth Smallest Element in a Sorted Matrix</br><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">4. Median of Two Sorted Arrays</td>
+  </tr>
 </tbody>
 <table>
 
