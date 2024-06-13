@@ -157,6 +157,11 @@
     <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/1749356188922957">Solved Leetcode Questions</br>(2D Array)</td>
     <td align="center" ><a href="https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix/description/">378. Kth Smallest Element in a Sorted Matrix</br><a href="https://leetcode.com/problems/median-of-two-sorted-arrays/">4. Median of Two Sorted Arrays</td>
   </tr>
+        <tr>
+    <td align="center"><b>04</b></td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/984587456250193">Solved Leetcode Questions</br>(2D Array)</td>
+    <td align="center" ><a href="https://leetcode.com/problems/set-matrix-zeroes/description/">73. Set Matrix Zeroes</br><a href="https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/">2037. Minimum Number of Moves to Seat Everyone</td>
+  </tr>
 </tbody>
 <table>
 
