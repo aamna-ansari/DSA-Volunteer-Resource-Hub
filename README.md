@@ -162,6 +162,12 @@
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/984587456250193">Solved Leetcode Questions</br>(2D Array)</td>
     <td align="center" ><a href="https://leetcode.com/problems/set-matrix-zeroes/description/">73. Set Matrix Zeroes</br><a href="https://leetcode.com/problems/minimum-number-of-moves-to-seat-everyone/">2037. Minimum Number of Moves to Seat Everyone</td>
   </tr>
+         <tr>
+    <td align="center"><b>05</b></td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1122422868991190">Solved Leetcode Questions</br>(Array)</td>
+    <td align="center" ><a href="https://leetcode.com/problems/find-lucky-integer-in-an-array/">1394. Find Lucky Integer in an Array
+</br><a href="https://leetcode.com/problems/sort-array-by-parity/">905. Sort Array By Parity</br><a href="https://leetcode.com/problems/sort-array-by-parity-ii/description/">922. Sort Array By Parity II</td>
+  </tr>
 </tbody>
 <table>
 
