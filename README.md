@@ -189,6 +189,11 @@
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1432889074030805">Understanding Space Complexity</td>
     <td align="center" ><a href="https://docs.google.com/presentation/d/1lbdsmzZt7GVYIdXUUsQrEjJSfJ8P8rte/edit?usp=sharing&ouid=100650279262950057994&rtpof=true&sd=true">Slides </td>
   </tr>
+        <tr>
+    <td align="center"><b>03</b></td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/426865503652638">Stack Data Structure</td>
+    <td align="center" ><a href="">Slides<br/><a href="https://leetcode.com/problems/removing-stars-from-a-string/">2390. Removing Stars From a String</td>
+  </tr>
 </tbody>
 <table>
 
