@@ -194,6 +194,11 @@
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/426865503652638">Stack Data Structure</td>
     <td align="center" ><a href="https://docs.google.com/presentation/d/1f8kwr101Vgs7SapNbOy10SsczMfTmn_X/edit?usp=sharing&ouid=100650279262950057994&rtpof=true&sd=true">Slides<br/><a href="https://leetcode.com/problems/removing-stars-from-a-string/">2390. Removing Stars From a String</td>
   </tr>
+        <tr>
+    <td align="center"><b>04</b></td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1206039483744858">Solved Leetcode Questions</td>
+    <td align="center" ><a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/">1047. Remove All Adjacent Duplicates In String<br/><a href="https://leetcode.com/problems/delete-characters-to-make-fancy-string/">1957. Delete Characters to Make Fancy String</td>
+  </tr>
 </tbody>
 <table>
 
