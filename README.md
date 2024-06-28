@@ -199,6 +199,11 @@
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1206039483744858">Solved Leetcode Questions</td>
     <td align="center" ><a href="https://leetcode.com/problems/remove-all-adjacent-duplicates-in-string/">1047. Remove All Adjacent Duplicates In String<br/><a href="https://leetcode.com/problems/delete-characters-to-make-fancy-string/">1957. Delete Characters to Make Fancy String</td>
   </tr>
+        <tr>
+    <td align="center"><b>05</b></td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1459090371396539">Solved Leetcode Questions</td>
+    <td align="center" ><a href="https://leetcode.com/problems/baseball-game/description/">682. Baseball Game</td>
+  </tr>
 </tbody>
 <table>
 
