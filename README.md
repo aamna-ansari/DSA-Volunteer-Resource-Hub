@@ -217,8 +217,9 @@
      </tr>  
         <tr>
     <td align="center"><b>01</b></td>
-    <td align="center"><a href="">Solved Leetcode Questions</td>
-    <td align="center" ><a href="https://leetcode.com/problems/baseball-game/description/">682. Baseball Game</td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/988475749319003">Solved Leetcode Questions</td>
+    <td align="center" ><a href="https://leetcode.com/problems/validate-stack-sequences/">946. Validate Stack Sequences<br/>
+    <a href="https://leetcode.com/problems/valid-parentheses/">20. Valid Parentheses</td>
   </tr>
          <tr>
     <td align="center"><b>02</b></td>
