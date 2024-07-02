@@ -207,6 +207,27 @@
 </tbody>
 <table>
 
+# Week 05
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Material/Questions</th>
+     </tr>  
+        <tr>
+    <td align="center"><b>01</b></td>
+    <td align="center"><a href="">Solved Leetcode Questions</td>
+    <td align="center" ><a href="https://leetcode.com/problems/baseball-game/description/">682. Baseball Game</td>
+  </tr>
+         <tr>
+    <td align="center"><b>02</b></td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1050338199941513">Solved Leetcode Questions</td>
+    <td align="center" ><a href="https://leetcode.com/problems/longest-consecutive-sequence/">128. Longest Consecutive Sequence</td>
+  </tr>
+</tbody>
+<table>
+
 
 
 
