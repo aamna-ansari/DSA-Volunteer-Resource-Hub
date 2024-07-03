@@ -226,6 +226,11 @@
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1050338199941513">Solved Leetcode Questions</td>
     <td align="center" ><a href="https://leetcode.com/problems/longest-consecutive-sequence/">128. Longest Consecutive Sequence</td>
   </tr>
+         <tr>
+    <td align="center"><b>03</b></td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/951744666633494">Solved Leetcode Questions</td>
+    <td align="center" ><a href="https://leetcode.com/problems/decode-string/">394. Decode String</br><a href="https://leetcode.com/problems/valid-parentheses/">20. Valid Parentheses</td>
+  </tr>
 </tbody>
 <table>
 
