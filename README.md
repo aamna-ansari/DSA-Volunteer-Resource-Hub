@@ -231,6 +231,12 @@
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/951744666633494">Solved Leetcode Questions</td>
     <td align="center" ><a href="https://leetcode.com/problems/decode-string/">394. Decode String</br><a href="https://leetcode.com/problems/valid-parentheses/">20. Valid Parentheses</td>
   </tr>
+          <tr>
+    <td align="center"><b>04</b></td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/460749686692726">Queue Data Structure</td>
+     <td align="center" ><a href="https://docs.google.com/presentation/d/1b_SlMK9ZarCr9ilAg9ZFHamet_GFQIupZVXARcQq1Nc/edit#slide=id.g2e9cf5ae6cd_0_113">Slides </td>
+  </tr>
+  </tr>
 </tbody>
 <table>
 
