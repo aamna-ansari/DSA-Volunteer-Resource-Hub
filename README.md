@@ -237,6 +237,11 @@
      <td align="center" ><a href="https://docs.google.com/presentation/d/1b_SlMK9ZarCr9ilAg9ZFHamet_GFQIupZVXARcQq1Nc/edit#slide=id.g2e9cf5ae6cd_0_113">Slides </td>
   </tr>
   </tr>
+          <td align="center"><b>05</b></td>
+    <td align="center"><a href="https://www.facebook.com/watch/live/?ref=search&v=489158580262089">Solved Leetcode Question</td>
+     <td align="center" ><a href="https://leetcode.com/problems/implement-stack-using-queues/description/">225. Implement Stack using Queues </td>
+  </tr>
+  </tr>
 </tbody>
 <table>
 
@@ -250,7 +255,7 @@
      </tr>  
         <tr>
     <td align="center"><b>01</b></td>
-    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/2664163053763655">Solved Leetcode Questions</td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/2664163053763655">Solved Leetcode Question</td>
     <td align="center" ><a href="https://leetcode.com/problems/product-of-the-last-k-numbers/">1352. Product of the Last K Numbers</td>
   </tr>
          
