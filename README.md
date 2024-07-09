@@ -258,6 +258,11 @@
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/2664163053763655">Solved Leetcode Question</td>
     <td align="center" ><a href="https://leetcode.com/problems/product-of-the-last-k-numbers/">1352. Product of the Last K Numbers</td>
   </tr>
+   <tr>
+    <td align="center"><b>02</b></td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/3772307829679797">Solved Leetcode Question</td>
+    <td align="center" ><a href="https://leetcode.com/problems/crawler-log-folder/">1598. Crawler Log Folder</td>
+  </tr>
          
 </tbody>
 <table>
