@@ -263,6 +263,16 @@
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/3772307829679797">Solved Leetcode Question</td>
     <td align="center" ><a href="https://leetcode.com/problems/crawler-log-folder/">1598. Crawler Log Folder</td>
   </tr>
+  <tr>
+    <td align="center"><b>03</b></td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/2497179950468224">Solved Leetcode Question</td>
+    <td align="center" ><a href="https://leetcode.com/problems/number-of-recent-calls/">933. Number of Recent Calls</td>
+  </tr>
+  <tr>
+    <td align="center"><b>04</b></td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/861689952653699">Solved Leetcode Questions</td>
+    <td align="center" ><a href="https://leetcode.com/problems/implement-stack-using-queues/">225. Implement Stack using Queues</br><a href="https://leetcode.com/problems/first-unique-character-in-a-string/">387. First Unique Character in a String</td>
+  </tr>
          
 </tbody>
 <table>
