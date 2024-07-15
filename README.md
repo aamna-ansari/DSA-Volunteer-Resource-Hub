@@ -272,11 +272,28 @@
     <td align="center"><b>04</b></td>
     <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/861689952653699">Solved Leetcode Questions</td>
     <td align="center" ><a href="https://leetcode.com/problems/implement-stack-using-queues/">225. Implement Stack using Queues</br><a href="https://leetcode.com/problems/first-unique-character-in-a-string/">387. First Unique Character in a String</td>
-  </tr>
-         
+  </tr>      
 </tbody>
 <table>
 
+    
+# Week 07
+
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Material/Questions</th>
+     </tr>  
+        <tr>
+    <td align="center"><b>01</b></td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/2664163053763655">Leetcode Question </br>(Two Pointer)</td>
+    <td align="center" ><a href="https://leetcode.com/problems/product-of-the-last-k-numbers/">1352. Product of the Last K Numbers</td>
+  </tr>
+
+</tbody>
+<table>
 
 
 
