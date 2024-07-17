@@ -295,6 +295,13 @@
     <td align="center"><a href="https://fb.watch/tknrmsSg59/">Two Pointers Data Structure</br>Leetcode Question(Two Pointer)</td>
     <td align="center" ><a href="https://docs.google.com/presentation/d/1f8man7NMEdUQEanVUXZlMOZgmdwiSZ3N/edit?usp=sharing&ouid=100650279262950057994&rtpof=true&sd=true">Slides</br><a href="https://leetcode.com/problems/move-zeroes/description/">283. Move Zeroes</td>
   </tr>
+        
+  <tr>
+    <td align="center" colspan="3">Class off due to 9th Muharram Holiday</td> 
+  </tr>
+   <tr>
+    <td align="center" colspan="3">Class off due to 10th Muharram Holiday</td> 
+  </tr>
 
 </tbody>
 <table>
