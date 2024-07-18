@@ -304,7 +304,7 @@
   </tr>
   <tr>
     <td align="center"><b>02</b></td>
-    <td align="center"><a href="">Leetcode Question(Two Pointer)</td>
+    <td align="center"><a href="https://www.facebook.com/iCodeguru/videos/1166336941080804">Leetcode Question(Two Pointer)</td>
     <td align="center" ><a href="https://leetcode.com/problems/reverse-string/description/">Reverse String</td>
   </tr>
 
