@@ -302,6 +302,11 @@
    <tr>
     <td align="center" colspan="3">Class off due to 10th Muharram Holiday</td> 
   </tr>
+  <tr>
+    <td align="center"><b>02</b></td>
+    <td align="center"><a href="">Leetcode Question(Two Pointer)</td>
+    <td align="center" ><a href="https://leetcode.com/problems/reverse-string/description/">Reverse String</td>
+  </tr>
 
 </tbody>
 <table>
