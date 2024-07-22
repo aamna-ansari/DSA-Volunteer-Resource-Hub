@@ -312,4 +312,23 @@
 <table>
 
 
+# Week 08
+
+<table>
+    <tbody>
+     <tr>
+      <th>Days</th>
+      <th>Video Links (Facebook)</br></th>
+      <th>Material/Questions</th>
+     </tr>  
+        <tr>
+    <td align="center"><b>01</b></td>
+    <td align="center"><a href="https://web.facebook.com/watch/live/?ref=watch_permalink&v=1026955768898100">Two Pointers Data Structure</br>Leetcode Questions</td>
+    <td align="center" ><a href="https://leetcode.com/problems/valid-palindrome/description/">125. Valid Palindrome</br><a href="https://leetcode.com/problems/majority-element/description/">169. Majority Element</td>
+  </tr>
+        
+
+</tbody>
+<table>
+
 
