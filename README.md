@@ -332,6 +332,11 @@
     <td align="center"><a href="https://web.facebook.com/watch/live/?ref=watch_permalink&v=1205209107494242">Two Pointers Data Structure</br>Leetcode Questions</td>
     <td align="center" ><a href="https://leetcode.com/problems/container-with-most-water/">11. Container With Most Water</br><a href="https://leetcode.com/problems/majority-element-ii/">229. Majority Element II</td>
   </tr>
+  <tr>
+    <td align="center"><b>03</b></td>
+    <td align="center"><a href="https://web.facebook.com/watch/live/?ref=watch_permalink&v=883167460319845">Two Pointers Data Structure</br>Leetcode Questions</td>
+    <td align="center" ><a href="https://leetcode.com/problems/majority-element-ii/">229. Majority Element II</td>
+  </tr>
         
 </tbody>
 <table>
