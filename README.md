@@ -337,7 +337,16 @@
     <td align="center"><a href="https://web.facebook.com/watch/live/?ref=watch_permalink&v=883167460319845">Two Pointers Data Structure</br>Leetcode Questions</td>
     <td align="center" ><a href="https://leetcode.com/problems/majority-element-ii/">229. Majority Element II</td>
   </tr>
-        
+  <tr>
+    <td align="center"><b>04</b></td>
+    <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/8605904716089836">Two Pointers Data Structure</br>Leetcode Questions</td>
+    <td align="center" ><a href="https://leetcode.com/problems/remove-duplicates-from-sorted-array/">26. Remove Duplicates from Sorted Array </br><a href="https://leetcode.com/problems/adding-spaces-to-a-string/">2109. Adding Spaces to a String</td>
+  </tr>
+     <tr>
+    <td align="center"><b>05</b></td>
+    <td align="center"><a href="https://web.facebook.com/iCodeguru/videos/1605923709968259">Two Pointers Data Structure</br>Leetcode Questions</td>
+    <td align="center" ><a href="https://leetcode.com/problems/reverse-vowels-of-a-string/">345. Reverse Vowels of a String</td>
+  </tr>   
 </tbody>
 <table>
 
